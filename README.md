@@ -10,8 +10,8 @@ An Excel-based **interactive dashboard** created to analyze pizza sales data and
 * [Objectives](#Objectives)
 * [Data Description](#-Data-Description)
 * [Key Insights](#Key-Insights)
-* [Tools & Techniques Used](#Tools-&-Techniques-Used)
-* [Recommendations / Next Steps](#Recommendations-/-Next-Steps)
+* [Tools & Techniques Used](#Tools--Techniques-Used)
+* [Recommendations / Next Steps](#Recommendations)
 * [How to Use This Project](#How-to-Use-This-Project)
 
 ---
@@ -70,7 +70,7 @@ This project is an Excel-based interactive dashboard created to analyze pizza sa
 
 ---
 
-##  Recommendations / Next Steps
+##  Recommendations
 
 * Integrate **Power BI** or **Tableau** for a more dynamic, web-based dashboard.
 * Add **forecasting models** (e.g., using Excel’s Forecast Sheet or Python) to predict future sales.
