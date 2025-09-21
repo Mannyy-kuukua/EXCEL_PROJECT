@@ -68,7 +68,9 @@ This project is an Excel-based interactive dashboard created to analyze pizza sa
 * **Data Analytics Skills:** Sales trend analysis, revenue forecasting insights
 ---
 * **Visualization:** Professional dashboard design principles
-![Pizza Sales Dashboard](<img width="1283" height="497" alt="excel pizza" src="https://github.com/user-attachments/assets/c2b8f661-d78c-4a4b-9023-529dfe42ac2a" />
+
+ 
+* ![Pizza Sales Dashboard](<img width="1283" height="497" alt="excel pizza" src="https://github.com/user-attachments/assets/c2b8f661-d78c-4a4b-9023-529dfe42ac2a" />
 )
 ---
 ##  Recommendations
