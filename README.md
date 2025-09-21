@@ -66,9 +66,8 @@ This project is an Excel-based interactive dashboard created to analyze pizza sa
   * KPIs and visual cards for metrics display
 
 * **Data Analytics Skills:** Sales trend analysis, revenue forecasting insights
----
+  
 * **Visualization:** Professional dashboard design principle
-
 ---
  ## Dashboard Preview
  
