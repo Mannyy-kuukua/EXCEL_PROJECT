@@ -6,13 +6,13 @@ An Excel-based **interactive dashboard** created to analyze pizza sales data and
 
 ##  Table of Contents
 
-* [Overview](#-overview)
-* [Objectives](#-objectives)
-* [Data Description](#-data-description)
-* [Key Insights](#-key-insights)
-* [Tools & Techniques Used](#-tools--techniques-used)
-* [Recommendations / Next Steps](#-recommendations--next-steps)
-* [How to Use This Project](#-how-to-use-this-project)
+* [Overview](#Overview)
+* [Objectives](#Objectives)
+* [Data Description](#-Data-Description)
+* [Key Insights](#Key-Insights)
+* [Tools & Techniques Used](#Tools-&-Techniques-Used)
+* [Recommendations / Next Steps](#Recommendations-/-Next-Steps)
+* [How to Use This Project](#How-to-Use-This-Project)
 
 ---
 
